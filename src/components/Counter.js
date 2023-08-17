@@ -1,6 +1,6 @@
 import React from "react";
 import { counterActions } from "../store";
-import { useSelector, UseSelector } from "react-redux/es/hooks/useSelector";
+import { useSelector } from "react-redux/es/hooks/useSelector";
 import { useDispatch } from "react-redux";
 
 
